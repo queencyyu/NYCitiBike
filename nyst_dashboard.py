@@ -139,6 +139,5 @@ else:
     
     st.markdown("### Our analysis has shown that CitiBike should focus on the following objectives moving forward:")
     st.markdown("- Given the high concentration of trips near Central Park and along the Hudson River, it would be beneficial to increase bike availability in these areas, especially during peak seasons. This redistribution could help alleviate shortages in high-demand locations and ensure a more balanced distribution across the city.")
-    st.markdown("- Consider expanding the available bike stations to areas adjacent to Central Park and the Hudson River, where trips are most commonly taken. This strategy could improve accessibility for users who prefer these popular routes, thereby enhancing overall user satisfaction.")
     st.markdown("- The business strategy team should consider implementing a seasonal bike distribution model, where more bikes are allocated to popular stations during warmer months. This approach would help address the increased demand during the peak biking season and ensure availability across all stations.")
     st.markdown("- Consider conducting further analysis on the demographics of the customers such as their age and gender or whether they are tourists or local customers. This would help to develop more tailored marketing campaigns or memberships based on CitiBike's customers.")
